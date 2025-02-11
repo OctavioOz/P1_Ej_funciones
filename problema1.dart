@@ -1,14 +1,11 @@
 import 'dart:io';
 
-
-//Crea un programa que tome una lista de números decimales (double)
-// y calcule el promedio de los valores que utilice 2 funciones una
-// para capturar datos de la lista y otra para mostrar los elementos
-
 void main() {
   // Función para capturar datos de la lista
   List<int> capturarDatos() {
     List<int> numeros = [];
+    print("Octavio Ozaeta Mat: 22308051281083");
+    print("1 Crea un programa que tome una lista de números decimales (int) y calcule el promedio de los valores que utilice 2 funciones una para capturar datos de la lista y otra para mostrar los elementos");
     print("Ingrese números enteros (escriba 'fin' para terminar):");
 
     while (true) {
