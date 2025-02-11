@@ -16,7 +16,7 @@ void main() {
     print("");
   print("Llamando a la funcion saludar");
   saludar("Juan", "Hola");
-  print("");
+  print(""); 
   print("Llamando a la funcion mostrarDatos");
   mostrarDatos("Carlos");
   mostrarDatos("Laura", 30);
