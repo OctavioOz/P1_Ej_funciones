@@ -16,6 +16,8 @@ void main() {
     12: "Diciembre"
   };
 
+  print("Tabla empleado");
+
   //imprimir el Map completo
   print('Meses del año: $mesesDelAnio');
 
@@ -29,4 +31,16 @@ void main() {
   mesesDelAnio.forEach((key, nombre) {
     print('$nombre');
   });
+
+  print("Tabla cliente");
+
+
+
+
+
+
+
+
+
+  print("Tabla ventas");
 }
